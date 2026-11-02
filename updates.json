@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "android": {
+    "version": "0.3.88",
+    "build": 95,
+    "min_sdk": 26,
+    "notes": "新增用户管理中的检查更新，可下载并校验官方新版。修复重复断开事件延后连接恢复超时的问题。",
+    "universal": {
+      "size": 20106771,
+      "sha256": "fc84ecbab1e21d17e5febb7cd124cdf5231e3a01102388276d7ea531ef296734",
+      "urls": [
+        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.88-95/MGLive-Android.apk"
+      ]
+    }
+  },
+  "ios": {
+    "version": "0.3.76",
+    "build": 80,
+    "min_os": 16,
+    "channel": "development",
+    "notes": "新增检查更新；改善断网恢复和信令存活检测，修复多条消息合并接收的边界问题。当前仍需通过开发签名安装。",
+    "url": null
+  }
+}
