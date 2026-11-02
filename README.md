@@ -8,7 +8,7 @@
 
 适合双人拍摄、合影取景、固定机位构图和拍摄现场协作。拍摄画面与语音在局域网设备之间传输；它不提供跨互联网远程监控或云端录像。
 
-本仓库提供安装包、版本记录和使用说明。当前 Android 公测版：**0.3.89（96）**。本文以该版本为准，旧版本的入口和功能可能不同。
+本仓库提供安装包、版本记录和使用说明。当前 Android 公测版：**0.3.90（97）**。本文以该版本为准，旧版本的入口和功能可能不同。
 
 **快速入口：** [下载安装](#下载安装) · [五分钟开始使用](#五分钟开始使用) · [账号与使用权益](#账号与使用权益android) · [权限说明](#权限说明) · [隐私说明](PRIVACY.md) · [常见问题](#常见问题) · [反馈与售后](#反馈与售后)
 
@@ -31,6 +31,7 @@
 | --- | --- |
 | [Android 通用版 APK](https://github.com/lukamorefree/mglive-downloads/releases/latest/download/MGLive-Android.apk) | Android 8.0 及以上的 ARM 32/64 位手机和平板；不确定架构时选此版本。 |
 | [Android ARM64 精简版 APK](https://github.com/lukamorefree/mglive-downloads/releases/latest/download/MGLive-Android-arm64.apk) | 支持 64 位 Android 应用的 ARM64 设备；功能相同，下载体积更小。 |
+| [Gitee 安装包镜像](https://gitee.com/lukamorefree/mglive-downloads/releases) | 查看通用版、ARM64 版及版本说明。 |
 | [全部版本及更新说明](https://github.com/lukamorefree/mglive-downloads/releases) | 查看版本号、更新内容和对应安装包。 |
 | [安装包 SHA-256 校验值](https://github.com/lukamorefree/mglive-downloads/releases/latest/download/SHA256SUMS.txt) | 与同一次发布的 APK 对照，确认文件下载完整。 |
 
@@ -47,7 +48,7 @@
 
 - **Android 公测版：** 发现新版后点击“下载更新”，等待进度条完成，再点击“安装更新”。应用会核对文件完整性、包名、版本及签名；最后仍需在系统安装界面确认。关闭更新页面会取消当前下载，可重新下载。
 - 首次从 MGLive 内安装更新时，系统可能要求允许 MGLive“安装未知应用”。只为本次官方更新授权即可，安装后可以撤销；无需开启相册或全部文件访问权限。
-- 更新信息自动尝试 Gitee 和 GitHub 可用发布源；当前安装包由 GitHub 发布，Gitee 同步可用后可作为备用。某个源暂时不可用时会尝试其他已配置源。若所有源不可用，可稍后重试或使用本页下载链接。
+- 更新信息自动尝试 Gitee 和 GitHub 可用发布源；GitHub 与 Gitee 均提供公开安装包。某个源暂时不可用时会尝试其他已配置源。若所有源不可用，可稍后重试或使用本页下载链接。
 - **iOS 测试版：** 可检查最新版本信息。目前尚未公开上架，仍需通过原开发安装方式更新，不能把 APK 或普通网页下载当作 iOS 安装。未来正式发布后会跳转到已配置的 App Store 或 TestFlight 入口。
 - 应用商店渠道的版本使用对应商店更新，不通过外部 APK 更新。覆盖官方同签名版本通常保留账号和设置，不要先卸载旧版。
 
