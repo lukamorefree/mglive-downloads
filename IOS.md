@@ -1,6 +1,6 @@
 # MGLive iOS 测试版
 
-当前测试版本：**0.3.76（80）**，需要 iOS 16 或更高版本。
+当前测试版本：**0.3.77（81）**，需要 iOS 16 或更高版本。
 
 iOS 版本目前仍通过开发签名测试，尚未提供公开 App Store 或 TestFlight 下载。普通 APK 不能安装在 iPhone 上，也没有无需授权即可安装的公开 IPA。
 
@@ -11,3 +11,11 @@ iOS 版本目前仍通过开发签名测试，尚未提供公开 App Store 或 T
 本次更新加入按需检查更新、信令连接存活检测、断网恢复超时处理，并修复信令分包合并时的边界判断。
 
 功能、权限与隐私说明见项目首页。反馈邮箱：**miguawu@yeah.net**。
+
+## 界面预览
+
+以下为 iOS 0.3.77 的模拟器截图。监看端处于等待连接状态，预览区域没有真实拍摄画面；截图不代表已经在 App Store 上架。
+
+| 首页：选择角色 | 监看端：等待连接 |
+| --- | --- |
+| <a href="assets/screenshots/ios-home.png"><img src="assets/screenshots/ios-home.png" alt="MGLive iOS 测试版首页" width="260"></a> | <a href="assets/screenshots/ios-viewer-waiting.png"><img src="assets/screenshots/ios-viewer-waiting.png" alt="MGLive iOS 测试版监看端等待连接，无真实拍摄画面" width="260"></a> |

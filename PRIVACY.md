@@ -1,8 +1,8 @@
 # MGLive 隐私说明
 
-更新日期：2026 年 11 月 2 日
+更新日期：2026 年 11 月 3 日
 
-适用版本：Android 0.3.89（96）及当前 iOS 0.3.76（80）测试版。
+适用版本：Android 0.3.90（97）及当前 iOS 0.3.77（81）测试版。
 
 MGLive 由开发者 **lukamorefree** 维护，用于同一局域网内的拍摄画面监看与拍摄辅助。隐私问题、个人信息请求与售后联系邮箱：**[miguawu@yeah.net](mailto:miguawu@yeah.net)**。
 
