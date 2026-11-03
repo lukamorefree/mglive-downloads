@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="assets/app-icon.png" alt="MGLive 应用图标" width="128" height="128">
+  <img src="assets/app-icon-rounded.svg" alt="MGLive 圆角应用图标" width="128" height="128">
 </p>
 
 # MGLive · 拍摄与实时监看
 
-让另一台手机成为你的取景监看屏。MGLive 在同一 Wi-Fi 或手机热点中连接两台设备：**拍摄端继续使用相机拍摄，监看端实时查看画面、语音沟通，并在支持的设备上遥控快门。**
+**此APP设计初衷是为了帮助女朋友拍出更满意的照片** (ง •̀_•́)ง
+
+拍照的时候，一个人负责掌镜，另一个人也能用自己的手机看看构图、调整姿势。把两台设备连到同一个 Wi-Fi 或手机热点，拍摄端照常用相机，监看端就能实时看画面、语音沟通；支持的设备还可以遥控快门。
+
+希望少一点“再来一张”，多一点“这张可以！” (｡•̀ᴗ-)✧
 
 适合双人拍摄、合影取景、固定机位构图和拍摄现场协作。拍摄画面与语音在局域网设备之间传输；它不提供跨互联网远程监控或云端录像。
 
@@ -27,11 +31,11 @@
 
 ## 界面预览
 
-以下为 Android 0.3.90 实机截图。监看页展示**等待连接**状态，没有真实拍摄画面；连接成功后，预览区域才会显示拍摄端分享的内容。点击图片可查看大图。
+以下均为 **OPPO Find X8 · Android 0.3.90** 实机截图。实时监看页已连接纯黑测试视频，展示实际的监看、互动与遥控操作界面，**不含真实拍摄画面**。点击图片可查看大图。
 
-| 首页：选择拍摄端或监看端 | 监看端：发现设备与配对 |
-| --- | --- |
-| <a href="assets/screenshots/android-home.png"><img src="assets/screenshots/android-home.png" alt="MGLive Android 首页，包含拍摄端和监看端入口" width="230"></a> | <a href="assets/screenshots/android-viewer-waiting.png"><img src="assets/screenshots/android-viewer-waiting.png" alt="MGLive Android 监看端等待连接页面，预览区域为空，无真实拍摄画面" width="230"></a> |
+| 首页：选择你的角色 | 监看端：发现设备与配对 | 实时监看：预览、互动与遥控 |
+| --- | --- | --- |
+| <a href="assets/screenshots/android-home.png"><img src="assets/screenshots/android-home.png" alt="OPPO Find X8 上的 MGLive 首页，包含拍摄端和监看端入口" width="230"></a> | <a href="assets/screenshots/android-viewer-waiting.png"><img src="assets/screenshots/android-viewer-waiting.png" alt="OPPO Find X8 上的监看端连接页面，显示附近设备与配对入口" width="230"></a> | <a href="assets/screenshots/android-viewer-live.png"><img src="assets/screenshots/android-viewer-live.png" alt="OPPO Find X8 上的实时监看界面，已连接纯黑测试视频，显示互动表情、麦克风和遥控拍摄控件，无真实拍摄内容" width="230"></a> |
 
 iPhone 测试版的截图、安装限制与更新方式见 [iOS 测试版说明](IOS.md)。不同屏幕尺寸、系统版本的排布可能略有差异。
 
@@ -64,7 +68,7 @@ iPhone 测试版的截图、安装限制与更新方式见 [iOS 测试版说明]
 
 <p><a href="assets/screenshots/android-updates.png"><img src="assets/screenshots/android-updates.png" alt="Android 检查更新页面，显示当前版本和检查更新按钮" width="230"></a></p>
 
-图示为尚未点击检查的页面；点击后显示检查进度，再根据结果提供下载与安装入口。
+图示为 OPPO Find X8 上尚未点击检查的页面；点击后显示检查进度，再根据结果提供下载与安装入口。
 
 ## 五分钟开始使用
 
