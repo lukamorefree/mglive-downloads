@@ -1,25 +1,24 @@
 {
   "schema": 1,
   "android": {
-    "version": "0.3.90",
-    "build": 97,
+    "version": "0.3.91",
+    "build": 98,
     "min_sdk": 26,
-    "notes": "新增检查更新，完整兼容 Gitee 版本清单及附件下载跳转、GitHub 下载源。下载后核对文件完整性、包名、版本和签名。修复断线恢复超时问题。",
+    "notes": "监看时，收起和展开按钮更靠近屏幕中央。可直接在用户管理底部查看版本说明、检查并下载更新。",
     "universal": {
-      "size": 20106771,
-      "sha256": "b00974bbd2f6715c4f764173e9421050f1db59f8f4dd100bc1c8b2a2f1c8e957",
+      "size": 20106943,
+      "sha256": "ee986c81e1389aacc1d08f062a0619aeb7e8f6b883b2b854350b05c542690c07",
       "urls": [
-        "https://gitee.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.90-97/MGLive-Android.apk",
-        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.90-97/MGLive-Android.apk"
+        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.91-98/MGLive-Android.apk"
       ]
     }
   },
   "ios": {
-    "version": "0.3.77",
-    "build": 81,
+    "version": "0.3.78",
+    "build": 82,
     "min_os": 16,
     "channel": "development",
-    "notes": "新增检查更新，兼容 Gitee 更新清单跳转。改善断网恢复和信令存活检测，修复信令分包边界问题。当前通过开发签名安装。",
+    "notes": "监看时，收起和展开按钮更靠近屏幕中央。可直接在用户管理底部查看版本说明和检查更新。",
     "url": null
   }
 }
