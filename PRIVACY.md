@@ -2,7 +2,7 @@
 
 更新日期：2026 年 11 月 3 日
 
-适用版本为 Android 0.3.95 及 iOS 0.3.95 测试版。
+适用版本为 Android 0.3.96 及 iOS 0.3.96 测试版。
 
 MGLive 由开发者 **lukamorefree** 维护，用于同一局域网内的拍摄画面监看与拍摄辅助。隐私问题、个人信息请求与售后联系邮箱：**[miguawu@yeah.net](mailto:miguawu@yeah.net)**。
 
