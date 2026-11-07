@@ -1,25 +1,24 @@
 {
   "schema": 1,
   "android": {
-    "version": "0.3.91",
-    "build": 98,
+    "version": "0.3.92",
+    "build": 99,
     "min_sdk": 26,
-    "notes": "监看时，收起和展开按钮更靠近屏幕中央。可直接在用户管理底部查看版本说明、检查并下载更新。",
+    "notes": "点首页用户管理图标旁的版本号，在气泡内检查更新。当前权益旁新增提示图标，可查看购买与退款说明和售后入口。下载时自动比较 Gitee 和 GitHub，失败后切换备用源，并兼容 Gitee 的小写附件地址。",
     "universal": {
-      "size": 20106943,
-      "sha256": "ee986c81e1389aacc1d08f062a0619aeb7e8f6b883b2b854350b05c542690c07",
+      "size": 20124439,
+      "sha256": "1ec7c9f8e9b18e0b11f8726237300d6608fa7ae0d01aec4b48a009f2c917d610",
       "urls": [
-        "https://gitee.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.91-98/MGLive-Android.apk",
-        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.91-98/MGLive-Android.apk"
+        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.92-99/MGLive-Android.apk"
       ]
     }
   },
   "ios": {
-    "version": "0.3.78",
-    "build": 82,
+    "version": "0.3.79",
+    "build": 83,
     "min_os": 16,
     "channel": "development",
-    "notes": "监看时，收起和展开按钮更靠近屏幕中央。可直接在用户管理底部查看版本说明和检查更新。",
+    "notes": "点首页用户管理图标旁的版本号，在气泡内检查更新。当前权益旁新增提示图标，可查看购买与退款说明和售后入口。",
     "url": null
   }
 }
