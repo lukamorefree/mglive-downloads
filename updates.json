@@ -1,25 +1,24 @@
 {
   "schema": 1,
   "android": {
-    "version": "0.3.95",
-    "build": 102,
+    "version": "0.3.96",
+    "build": 103,
     "min_sdk": 26,
-    "notes": "· 优化拍摄端首次分享提示，明确无障碍服务的开启步骤。\n· 拍摄端横屏拍摄时，监看画面保持竖向显示，取景更大。",
+    "notes": "· 修复拍摄端横屏时，实时画面在监看端缩成横向窄条的问题。\n· 拍摄端横竖屏切换时，监看窗口保持竖向，完整显示取景画面。",
     "universal": {
-      "size": 20124651,
-      "sha256": "8fcb52ee6b27e3baf2386d8259c98961724ab0f033e4ff62bd564820522839b2",
+      "size": 20124667,
+      "sha256": "f0dfcf642dd864062539add3825de073e065b5d195541da153028cbf1085d3a7",
       "urls": [
-        "https://gitee.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.95-102/MGLive-Android.apk",
-        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.95-102/MGLive-Android.apk"
+        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.96-103/MGLive-Android.apk"
       ]
     }
   },
   "ios": {
-    "version": "0.3.95",
-    "build": 85,
+    "version": "0.3.96",
+    "build": 86,
     "min_os": 16,
     "channel": "development",
-    "notes": "拍摄端横屏拍摄时，监看画面保持竖向显示，取景更大。",
+    "notes": "拍摄端横竖屏切换时，监看窗口保持竖向，完整显示取景画面。",
     "url": null
   }
 }
