@@ -1,25 +1,36 @@
 {
   "schema": 1,
   "android": {
-    "version": "0.3.96",
-    "build": 103,
+    "version": "0.3.97",
+    "build": 104,
     "min_sdk": 26,
-    "notes": "· 修复拍摄端横屏时，实时画面在监看端缩成横向窄条的问题。\n· 拍摄端横竖屏切换时，监看窗口保持竖向，完整显示取景画面。",
+    "notes": "· 新增简体中文、英语、西班牙语和葡萄牙语，支持跟随系统或在首页切换。\n· 优化附近设备提示，拍摄端开始分享后可被发现。",
+    "notes_by_language": {
+      "zh": "· 新增简体中文、英语、西班牙语和葡萄牙语，支持跟随系统或在首页切换。\n· 优化附近设备提示，拍摄端开始分享后可被发现。",
+      "en": "· Added Simplified Chinese, English, Spanish, and Portuguese. Follow your system language or switch from Home.\n· Nearby devices now explain that camera devices appear after they start sharing.",
+      "es": "· Nuevos idiomas: chino simplificado, inglés, español y portugués. Usa el idioma del sistema o cámbialo desde Inicio.\n· La búsqueda explica que las cámaras aparecen cuando empiezan a compartir.",
+      "pt": "· Novos idiomas: chinês simplificado, inglês, espanhol e português. Siga o idioma do sistema ou altere na tela inicial.\n· A busca informa que as câmeras aparecem quando começam a compartilhar."
+    },
     "universal": {
-      "size": 20124667,
-      "sha256": "f0dfcf642dd864062539add3825de073e065b5d195541da153028cbf1085d3a7",
+      "size": 20310011,
+      "sha256": "89b2c79a6097fd95a0e90288b79f5896bd40f94ef3409903a56fd8278964a86a",
       "urls": [
-        "https://gitee.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.96-103/MGLive-Android.apk",
-        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.96-103/MGLive-Android.apk"
+        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.97-104/MGLive-Android.apk"
       ]
     }
   },
   "ios": {
-    "version": "0.3.96",
-    "build": 86,
+    "version": "0.3.97",
+    "build": 87,
     "min_os": 16,
     "channel": "development",
-    "notes": "拍摄端横竖屏切换时，监看窗口保持竖向，完整显示取景画面。",
+    "notes": "· 新增简体中文、英语、西班牙语和葡萄牙语，支持跟随系统或在首页切换。\n· 优化附近设备提示，拍摄端开始分享后可被发现。",
+    "notes_by_language": {
+      "zh": "· 新增简体中文、英语、西班牙语和葡萄牙语，支持跟随系统或在首页切换。\n· 优化附近设备提示，拍摄端开始分享后可被发现。",
+      "en": "· Added Simplified Chinese, English, Spanish, and Portuguese. Follow your system language or switch from Home.\n· Nearby devices now explain that camera devices appear after they start sharing.",
+      "es": "· Nuevos idiomas: chino simplificado, inglés, español y portugués. Usa el idioma del sistema o cámbialo desde Inicio.\n· La búsqueda explica que las cámaras aparecen cuando empiezan a compartir.",
+      "pt": "· Novos idiomas: chinês simplificado, inglês, espanhol e português. Siga o idioma do sistema ou altere na tela inicial.\n· A busca informa que as câmeras aparecem quando começam a compartilhar."
+    },
     "url": null
   }
 }
