@@ -1,35 +1,35 @@
 {
   "schema": 1,
   "android": {
-    "version": "0.3.99",
-    "build": 106,
+    "version": "0.3.100",
+    "build": 107,
     "min_sdk": 26,
-    "notes": "· 全面校对了西班牙语、葡萄牙语界面文案，修正机翻残留并统一术语（快门、配对码、拍摄端/监看端等）。",
+    "notes": "· 将监看端配对码提示移到输入框上方，精简英、西、葡语文案，支持窄屏换行。",
     "notes_by_language": {
-      "zh": "· 全面校对了西班牙语、葡萄牙语界面文案，修正机翻残留并统一术语（快门、配对码、拍摄端/监看端等）。",
-      "en": "· Fully reviewed Spanish and Portuguese text, fixing machine-translation artifacts and unifying terminology (shutter, pairing code, camera/monitor, etc.).",
-      "es": "· Revisión completa de los textos en español y portugués, con terminología unificada (obturador, código de emparejamiento, cámara/monitor, etc.).",
-      "pt": "· Revisão completa dos textos em espanhol e português, com terminologia unificada (obturador, código de pareamento, câmera/monitor, etc.)."
+      "zh": "· 将监看端配对码提示移到输入框上方，精简英、西、葡语文案，支持窄屏换行。",
+      "en": "· Aligned the pairing code hint above the field and shortened it so it wraps cleanly on small screens.",
+      "es": "· Se ajustó la posición del aviso del código y se acortó el texto para que se lea completo en pantallas estrechas.",
+      "pt": "· Ajustamos a posição e reduzimos o texto da dica do código para que apareça por completo em telas estreitas."
     },
     "universal": {
-      "size": 20306015,
-      "sha256": "588fe6e241884fdf27c046644b453ee3b19ff2c42fd6c73f5f5c51556c6abe07",
+      "size": 20306151,
+      "sha256": "20d660c560fbd97e8c1d845d6735443b787fb15d14ce1cb102082c72f816f711",
       "urls": [
-        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.99-106/MGLive-Android.apk"
+        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.100-107/MGLive-Android.apk"
       ]
     }
   },
   "ios": {
-    "version": "0.3.99",
-    "build": 89,
+    "version": "0.3.100",
+    "build": 90,
     "min_os": 16,
     "channel": "development",
-    "notes": "· 全面校对了西班牙语、葡萄牙语界面文案，修正机翻残留并统一术语（快门、配对码、拍摄端/监看端等）。",
+    "notes": "· 将监看端配对码提示移到输入框上方，精简英、西、葡语文案，支持窄屏换行。",
     "notes_by_language": {
-      "zh": "· 全面校对了西班牙语、葡萄牙语界面文案，修正机翻残留并统一术语（快门、配对码、拍摄端/监看端等）。",
-      "en": "· Fully reviewed Spanish and Portuguese text, fixing machine-translation artifacts and unifying terminology (shutter, pairing code, camera/monitor, etc.).",
-      "es": "· Revisión completa de los textos en español y portugués, con terminología unificada (obturador, código de emparejamiento, cámara/monitor, etc.).",
-      "pt": "· Revisão completa dos textos em espanhol e português, com terminologia unificada (obturador, código de pareamento, câmera/monitor, etc.)."
+      "zh": "· 将监看端配对码提示移到输入框上方，精简英、西、葡语文案，支持窄屏换行。",
+      "en": "· Aligned the pairing code hint above the field and shortened it so it wraps cleanly on small screens.",
+      "es": "· Se ajustó la posición del aviso del código y se acortó el texto para que se lea completo en pantallas estrechas.",
+      "pt": "· Ajustamos a posição e reduzimos o texto da dica do código para que apareça por completo em telas estreitas."
     },
     "url": null
   }
