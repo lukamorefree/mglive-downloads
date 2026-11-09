@@ -1,35 +1,35 @@
 {
   "schema": 1,
   "android": {
-    "version": "0.3.98",
-    "build": 105,
+    "version": "0.3.99",
+    "build": 106,
     "min_sdk": 26,
-    "notes": "· 修复监看端配对码输入框占位文字未居中显示的问题。\n· 移除首页语言弹窗中的“跟随系统”选项，保留四种语言手动切换。\n· 精简并优化西班牙语、葡萄牙语界面文案，修复文字换行和按钮文字分行的适配问题。",
+    "notes": "· 全面校对了西班牙语、葡萄牙语界面文案，修正机翻残留并统一术语（快门、配对码、拍摄端/监看端等）。",
     "notes_by_language": {
-      "zh": "· 修复监看端配对码输入框占位文字未居中显示的问题。\n· 移除首页语言弹窗中的“跟随系统”选项，保留四种语言手动切换。\n· 精简并优化西班牙语、葡萄牙语界面文案，修复文字换行和按钮文字分行的适配问题。",
-      "en": "· Fixed the pairing code placeholder not being centered in the viewer input field.\n· Removed the “Follow system” option from the language picker; switch manually between the four languages.\n· Shortened and improved Spanish and Portuguese text to fix line wrapping and two-line button labels.",
-      "es": "· Corregido el centrado del texto del código de emparejamiento en el campo del monitor.\n· Eliminada la opción “Idioma del sistema” del selector; ahora se elige entre los cuatro idiomas.\n· Textos en español y portugués acortados y mejorados para evitar saltos de línea y botones con dos líneas.",
-      "pt": "· Corrigido o alinhamento do texto do código de pareamento no campo do monitor.\n· Removida a opção “Idioma do sistema” do seletor; agora os quatro idiomas são escolhidos manualmente.\n· Textos em espanhol e português encurtados e melhorados para evitar quebras de linha e botões com duas linhas."
+      "zh": "· 全面校对了西班牙语、葡萄牙语界面文案，修正机翻残留并统一术语（快门、配对码、拍摄端/监看端等）。",
+      "en": "· Fully reviewed Spanish and Portuguese text, fixing machine-translation artifacts and unifying terminology (shutter, pairing code, camera/monitor, etc.).",
+      "es": "· Revisión completa de los textos en español y portugués, con terminología unificada (obturador, código de emparejamiento, cámara/monitor, etc.).",
+      "pt": "· Revisão completa dos textos em espanhol e português, com terminologia unificada (obturador, código de pareamento, câmera/monitor, etc.)."
     },
     "universal": {
-      "size": 20310067,
-      "sha256": "96730322c3fd2b31d8ae1b971e5bb6c1961fac31b9692fda18b6db34af308a0f",
+      "size": 20306015,
+      "sha256": "588fe6e241884fdf27c046644b453ee3b19ff2c42fd6c73f5f5c51556c6abe07",
       "urls": [
-        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.98-105/MGLive-Android.apk"
+        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.99-106/MGLive-Android.apk"
       ]
     }
   },
   "ios": {
-    "version": "0.3.98",
-    "build": 88,
+    "version": "0.3.99",
+    "build": 89,
     "min_os": 16,
     "channel": "development",
-    "notes": "· 修复监看端配对码输入框占位文字未居中显示的问题。\n· 移除首页语言弹窗中的“跟随系统”选项，保留四种语言手动切换。\n· 精简并优化西班牙语、葡萄牙语界面文案，修复文字换行和按钮文字分行的适配问题。",
+    "notes": "· 全面校对了西班牙语、葡萄牙语界面文案，修正机翻残留并统一术语（快门、配对码、拍摄端/监看端等）。",
     "notes_by_language": {
-      "zh": "· 修复监看端配对码输入框占位文字未居中显示的问题。\n· 移除首页语言弹窗中的“跟随系统”选项，保留四种语言手动切换。\n· 精简并优化西班牙语、葡萄牙语界面文案，修复文字换行和按钮文字分行的适配问题。",
-      "en": "· Fixed the pairing code placeholder not being centered in the viewer input field.\n· Removed the “Follow system” option from the language picker; switch manually between the four languages.\n· Shortened and improved Spanish and Portuguese text to fix line wrapping and two-line button labels.",
-      "es": "· Corregido el centrado del texto del código de emparejamiento en el campo del monitor.\n· Eliminada la opción “Idioma del sistema” del selector; ahora se elige entre los cuatro idiomas.\n· Textos en español y portugués acortados y mejorados para evitar saltos de línea y botones con dos líneas.",
-      "pt": "· Corrigido o alinhamento do texto do código de pareamento no campo do monitor.\n· Removida a opção “Idioma do sistema” do seletor; agora os quatro idiomas são escolhidos manualmente.\n· Textos em espanhol e português encurtados e melhorados para evitar quebras de linha e botões com duas linhas."
+      "zh": "· 全面校对了西班牙语、葡萄牙语界面文案，修正机翻残留并统一术语（快门、配对码、拍摄端/监看端等）。",
+      "en": "· Fully reviewed Spanish and Portuguese text, fixing machine-translation artifacts and unifying terminology (shutter, pairing code, camera/monitor, etc.).",
+      "es": "· Revisión completa de los textos en español y portugués, con terminología unificada (obturador, código de emparejamiento, cámara/monitor, etc.).",
+      "pt": "· Revisão completa dos textos em espanhol e português, com terminologia unificada (obturador, código de pareamento, câmera/monitor, etc.)."
     },
     "url": null
   }
