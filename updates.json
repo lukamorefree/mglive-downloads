@@ -1,36 +1,35 @@
 {
   "schema": 1,
   "android": {
-    "version": "0.3.97",
-    "build": 104,
+    "version": "0.3.98",
+    "build": 105,
     "min_sdk": 26,
-    "notes": "· 新增简体中文、英语、西班牙语和葡萄牙语，支持跟随系统或在首页切换。\n· 优化附近设备提示，拍摄端开始分享后可被发现。",
+    "notes": "· 修复监看端配对码输入框占位文字未居中显示的问题。\n· 移除首页语言弹窗中的“跟随系统”选项，保留四种语言手动切换。\n· 精简并优化西班牙语、葡萄牙语界面文案，修复文字换行和按钮文字分行的适配问题。",
     "notes_by_language": {
-      "zh": "· 新增简体中文、英语、西班牙语和葡萄牙语，支持跟随系统或在首页切换。\n· 优化附近设备提示，拍摄端开始分享后可被发现。",
-      "en": "· Added Simplified Chinese, English, Spanish, and Portuguese. Follow your system language or switch from Home.\n· Nearby devices now explain that camera devices appear after they start sharing.",
-      "es": "· Nuevos idiomas: chino simplificado, inglés, español y portugués. Usa el idioma del sistema o cámbialo desde Inicio.\n· La búsqueda explica que las cámaras aparecen cuando empiezan a compartir.",
-      "pt": "· Novos idiomas: chinês simplificado, inglês, espanhol e português. Siga o idioma do sistema ou altere na tela inicial.\n· A busca informa que as câmeras aparecem quando começam a compartilhar."
+      "zh": "· 修复监看端配对码输入框占位文字未居中显示的问题。\n· 移除首页语言弹窗中的“跟随系统”选项，保留四种语言手动切换。\n· 精简并优化西班牙语、葡萄牙语界面文案，修复文字换行和按钮文字分行的适配问题。",
+      "en": "· Fixed the pairing code placeholder not being centered in the viewer input field.\n· Removed the “Follow system” option from the language picker; switch manually between the four languages.\n· Shortened and improved Spanish and Portuguese text to fix line wrapping and two-line button labels.",
+      "es": "· Corregido el centrado del texto del código de emparejamiento en el campo del monitor.\n· Eliminada la opción “Idioma del sistema” del selector; ahora se elige entre los cuatro idiomas.\n· Textos en español y portugués acortados y mejorados para evitar saltos de línea y botones con dos líneas.",
+      "pt": "· Corrigido o alinhamento do texto do código de pareamento no campo do monitor.\n· Removida a opção “Idioma do sistema” do seletor; agora os quatro idiomas são escolhidos manualmente.\n· Textos em espanhol e português encurtados e melhorados para evitar quebras de linha e botões com duas linhas."
     },
     "universal": {
-      "size": 20310011,
-      "sha256": "89b2c79a6097fd95a0e90288b79f5896bd40f94ef3409903a56fd8278964a86a",
+      "size": 20310067,
+      "sha256": "96730322c3fd2b31d8ae1b971e5bb6c1961fac31b9692fda18b6db34af308a0f",
       "urls": [
-        "https://gitee.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.97-104/MGLive-Android.apk",
-        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.97-104/MGLive-Android.apk"
+        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.98-105/MGLive-Android.apk"
       ]
     }
   },
   "ios": {
-    "version": "0.3.97",
-    "build": 87,
+    "version": "0.3.98",
+    "build": 88,
     "min_os": 16,
     "channel": "development",
-    "notes": "· 新增简体中文、英语、西班牙语和葡萄牙语，支持跟随系统或在首页切换。\n· 优化附近设备提示，拍摄端开始分享后可被发现。",
+    "notes": "· 修复监看端配对码输入框占位文字未居中显示的问题。\n· 移除首页语言弹窗中的“跟随系统”选项，保留四种语言手动切换。\n· 精简并优化西班牙语、葡萄牙语界面文案，修复文字换行和按钮文字分行的适配问题。",
     "notes_by_language": {
-      "zh": "· 新增简体中文、英语、西班牙语和葡萄牙语，支持跟随系统或在首页切换。\n· 优化附近设备提示，拍摄端开始分享后可被发现。",
-      "en": "· Added Simplified Chinese, English, Spanish, and Portuguese. Follow your system language or switch from Home.\n· Nearby devices now explain that camera devices appear after they start sharing.",
-      "es": "· Nuevos idiomas: chino simplificado, inglés, español y portugués. Usa el idioma del sistema o cámbialo desde Inicio.\n· La búsqueda explica que las cámaras aparecen cuando empiezan a compartir.",
-      "pt": "· Novos idiomas: chinês simplificado, inglês, espanhol e português. Siga o idioma do sistema ou altere na tela inicial.\n· A busca informa que as câmeras aparecem quando começam a compartilhar."
+      "zh": "· 修复监看端配对码输入框占位文字未居中显示的问题。\n· 移除首页语言弹窗中的“跟随系统”选项，保留四种语言手动切换。\n· 精简并优化西班牙语、葡萄牙语界面文案，修复文字换行和按钮文字分行的适配问题。",
+      "en": "· Fixed the pairing code placeholder not being centered in the viewer input field.\n· Removed the “Follow system” option from the language picker; switch manually between the four languages.\n· Shortened and improved Spanish and Portuguese text to fix line wrapping and two-line button labels.",
+      "es": "· Corregido el centrado del texto del código de emparejamiento en el campo del monitor.\n· Eliminada la opción “Idioma del sistema” del selector; ahora se elige entre los cuatro idiomas.\n· Textos en español y portugués acortados y mejorados para evitar saltos de línea y botones con dos líneas.",
+      "pt": "· Corrigido o alinhamento do texto do código de pareamento no campo do monitor.\n· Removida a opção “Idioma do sistema” do seletor; agora os quatro idiomas são escolhidos manualmente.\n· Textos em espanhol e português encurtados e melhorados para evitar quebras de linha e botões com duas linhas."
     },
     "url": null
   }
