@@ -1,36 +1,35 @@
 {
   "schema": 1,
   "android": {
-    "version": "0.3.100",
-    "build": 107,
+    "version": "0.3.102",
+    "build": 109,
     "min_sdk": 26,
-    "notes": "· 将监看端配对码提示移到输入框上方，精简英、西、葡语文案，支持窄屏换行。",
+    "notes": "· 配对码提示移入输入框，与地址提示左对齐并垂直居中，支持四种语言。\n· 优化 Android 更新安装包的缓存隔离与版本校验。",
     "notes_by_language": {
-      "zh": "· 将监看端配对码提示移到输入框上方，精简英、西、葡语文案，支持窄屏换行。",
-      "en": "· Aligned the pairing code hint above the field and shortened it so it wraps cleanly on small screens.",
-      "es": "· Se ajustó la posición del aviso del código y se acortó el texto para que se lea completo en pantallas estrechas.",
-      "pt": "· Ajustamos a posição e reduzimos o texto da dica do código para que apareça por completo em telas estreitas."
+      "zh": "· 配对码提示移入输入框，与地址提示左对齐并垂直居中，支持四种语言。\n· 优化 Android 更新安装包的缓存隔离与版本校验。",
+      "en": "· Moved the pairing hint inside the field, left-aligned with the address hint and vertically centered in all four languages.\n· Improved Android update package isolation and version checks.",
+      "es": "· El aviso del código aparece dentro del campo, centrado verticalmente y alineado a la izquierda con la dirección, en los cuatro idiomas.\n· Mejoramos el aislamiento y la comprobación de versión de los paquetes de actualización de Android.",
+      "pt": "· A dica do código fica dentro do campo, centralizada na vertical e alinhada à esquerda com o endereço, nos quatro idiomas.\n· Melhoramos o isolamento e a verificação de versão dos pacotes de atualização do Android."
     },
     "universal": {
-      "size": 20306151,
-      "sha256": "20d660c560fbd97e8c1d845d6735443b787fb15d14ce1cb102082c72f816f711",
+      "size": 20306587,
+      "sha256": "dd7b7d303ae5b7e2f346dcf6a0e8bbeb566d8c8f24bd2d64f7225c3355b42d4e",
       "urls": [
-        "https://gitee.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.100-107/MGLive-Android.apk",
-        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.100-107/MGLive-Android.apk"
+        "https://github.com/lukamorefree/mglive-downloads/releases/download/android-v0.3.102-109/MGLive-Android.apk"
       ]
     }
   },
   "ios": {
-    "version": "0.3.100",
-    "build": 90,
+    "version": "0.3.102",
+    "build": 91,
     "min_os": 16,
     "channel": "development",
-    "notes": "· 将监看端配对码提示移到输入框上方，精简英、西、葡语文案，支持窄屏换行。",
+    "notes": "· 配对码提示移入输入框，与地址提示左对齐并垂直居中，支持四种语言。",
     "notes_by_language": {
-      "zh": "· 将监看端配对码提示移到输入框上方，精简英、西、葡语文案，支持窄屏换行。",
-      "en": "· Aligned the pairing code hint above the field and shortened it so it wraps cleanly on small screens.",
-      "es": "· Se ajustó la posición del aviso del código y se acortó el texto para que se lea completo en pantallas estrechas.",
-      "pt": "· Ajustamos a posição e reduzimos o texto da dica do código para que apareça por completo em telas estreitas."
+      "zh": "· 配对码提示移入输入框，与地址提示左对齐并垂直居中，支持四种语言。",
+      "en": "· Moved the pairing hint inside the field, left-aligned with the address hint and vertically centered in all four languages.",
+      "es": "· El aviso del código aparece dentro del campo, centrado verticalmente y alineado a la izquierda con la dirección, en los cuatro idiomas.",
+      "pt": "· A dica do código fica dentro do campo, centralizada na vertical e alinhada à esquerda com o endereço, nos quatro idiomas."
     },
     "url": null
   }
